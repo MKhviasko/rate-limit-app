@@ -31,11 +31,8 @@ hs_err_pid*
 target/*
 notes.md
 src/test/target/*
-/k8s/99-deployment-service-lom-service.yaml
-# visual studio code generated folders
-.classpath
-.factorypath
-.project
-.settings
-.mvn
-mvnw*
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
